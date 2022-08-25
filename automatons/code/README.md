@@ -5,4 +5,4 @@
 - [后缀自动机](https://github.com/Zhangjiacheng2006/manim_projects/blob/main/automatons/code/SAM.cpp)
 - [广义后缀自动机](https://github.com/Zhangjiacheng2006/manim_projects/blob/main/automatons/code/GSAM.cpp)
 
-如果那个代码有错踢我一下，可以交个PR，谢谢。
+如果那个代码有错踢我一下，也可以交个PR，谢谢。
