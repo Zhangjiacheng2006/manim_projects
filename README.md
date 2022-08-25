@@ -1,2 +1,9 @@
-# manim_projects
-Some Code for my videos on bilibili running on manim.
+使用这个项目里的python代码需要先配置好[manim](https://github.com/ManimCommunity/manim)，
+
+因为我自己代码水平很烂，以及对manim的源码理解有限，所以我的代码可能会显得又臭又长（大多还没有注释）。
+
+这个项目里的文件用于制作[我的b站视频](https://space.bilibili.com/2074705866/video)
+
+这个项目里代码主要做学习交流使用，欢迎提建议，修改，补充。（我想要学习更多）
+
+如果想那我的代码去另行创作视频，如果使用部分多于半分钟，注明出处并提醒我一下（毕竟我也想看看awa）。
