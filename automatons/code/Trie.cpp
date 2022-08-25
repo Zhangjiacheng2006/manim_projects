@@ -1,5 +1,6 @@
 /*
 这是一份字典树的代码，字符集为所有小写英文字母。
+仅供参考
 */
 #include<string>
 using namespace std;
